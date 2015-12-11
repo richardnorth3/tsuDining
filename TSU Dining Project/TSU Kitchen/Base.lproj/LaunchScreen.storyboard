@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="9060" systemVersion="15A284" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9051"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="4s9-BA-ioN">
+            <objects>
+                <viewController id="f61-7F-bie" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Qdr-o3-WZe"/>
+                        <viewControllerLayoutGuide type="bottom" id="S0q-Z1-NzX"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="bZU-Sw-DRL">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="tigerIcon.png" translatesAutoresizingMaskIntoConstraints="NO" id="fTE-u3-3Wr">
+                                <rect key="frame" x="180" y="201" width="240" height="163"/>
+                                <animations/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="240" id="Cno-fs-7jw"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Copyright © 2015 Deez Productions. All rights reserved." textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Tok-fx-5th">
+                                <rect key="frame" x="20" y="391" width="560" height="21"/>
+                                <animations/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="21" id="4au-hL-vS7"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <animations/>
+                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="S0q-Z1-NzX" firstAttribute="top" secondItem="Tok-fx-5th" secondAttribute="bottom" constant="188" id="4y2-Qt-Wqo"/>
+                            <constraint firstItem="fTE-u3-3Wr" firstAttribute="centerX" secondItem="Tok-fx-5th" secondAttribute="centerX" id="59q-SQ-B7j"/>
+                            <constraint firstItem="Tok-fx-5th" firstAttribute="leading" secondItem="bZU-Sw-DRL" secondAttribute="leadingMargin" id="Jdy-Ot-eDN"/>
+                            <constraint firstItem="fTE-u3-3Wr" firstAttribute="top" secondItem="Qdr-o3-WZe" secondAttribute="bottom" constant="181" id="eo0-4s-JzA"/>
+                            <constraint firstItem="Tok-fx-5th" firstAttribute="trailing" secondItem="bZU-Sw-DRL" secondAttribute="trailingMargin" id="hp6-IX-eC4"/>
+                            <constraint firstItem="Tok-fx-5th" firstAttribute="top" secondItem="fTE-u3-3Wr" secondAttribute="bottom" constant="27" id="ti2-Or-Acl"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="5jk-pI-zZP" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-114" y="308"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="tigerIcon.png" width="500" height="500"/>
+    </resources>
+</document>
