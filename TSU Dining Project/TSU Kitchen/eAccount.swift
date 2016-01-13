@@ -10,10 +10,18 @@ import UIKit
 
 class eAccount: UIViewController {
 
+    @IBOutlet weak var showCash: UIWebView!
+    
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-
-        // Do any additional setup after loading the view.
+        
+        let url = NSURL(string: "www.google.com")
+        let request = NSURLRequest(URL: url!)
+        showCash.loadRequest(request)
+        
+                // Do any additional setup after loading the view.
     }
 
     override func didReceiveMemoryWarning() {
