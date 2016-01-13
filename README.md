@@ -1,5 +1,5 @@
 # tsuDining
-TSU Dining is a mobile application written in Swift 2.0 and created in Xcode. I attend Texas Southern University and work for the Information Technology department. As of now there is not a dining application available for my campus so I took the initiative to create one. My department loved the idea and said make it happen and so I did. 
+TSU Dining is a mobile application written in Swift 2.0 and created in Xcode. I attend Texas Southern University and work for the Information Technology department on campus as a technician. As of now, there is not a dining application available for my institution so I took it upon myself to create one. My department loved the idea and said make it happen and so I did. 
 
 Features of the app: 
 
