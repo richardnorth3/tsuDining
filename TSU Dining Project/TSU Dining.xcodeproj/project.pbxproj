@@ -7,35 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		23335B9B1C3B07C200821522 /* Home-25.png in Resources */ = {isa = PBXBuildFile; fileRef = 23335B9A1C3B07C200821522 /* Home-25.png */; };
-		23335B9D1C3B086900821522 /* 28-day-Dry-Aged-Sirloin1-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 23335B9C1C3B086900821522 /* 28-day-Dry-Aged-Sirloin1-1.jpg */; };
-		23335B9F1C3B089900821522 /* 01_Cafeteria-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 23335B9E1C3B089900821522 /* 01_Cafeteria-1.jpg */; };
-		23335BA11C3B09F400821522 /* fruitsandvegetables.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 23335BA01C3B09F400821522 /* fruitsandvegetables.jpg */; };
-		23335BA31C3B0A0A00821522 /* jazzCafe.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 23335BA21C3B0A0A00821522 /* jazzCafe.jpg */; };
-		23335BA51C3B0A1B00821522 /* jazzCafeResize.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 23335BA41C3B0A1B00821522 /* jazzCafeResize.jpg */; };
-		23335BA81C3B0A3E00821522 /* einsteinBros.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 23335BA61C3B0A3E00821522 /* einsteinBros.jpg */; };
-		23335BA91C3B0A3E00821522 /* einsteinBros2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 23335BA71C3B0A3E00821522 /* einsteinBros2.jpg */; };
-		23335BAB1C3B0A6200821522 /* chickfila.png in Resources */ = {isa = PBXBuildFile; fileRef = 23335BAA1C3B0A6200821522 /* chickfila.png */; };
-		23335BAD1C3B0A7700821522 /* chickfila2.png in Resources */ = {isa = PBXBuildFile; fileRef = 23335BAC1C3B0A7700821522 /* chickfila2.png */; };
-		23335BAF1C3B0AA000821522 /* sodexo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 23335BAE1C3B0AA000821522 /* sodexo.jpg */; };
-		23335BB11C3B0AB800821522 /* tsu-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 23335BB01C3B0AB800821522 /* tsu-logo.png */; };
-		23335BB31C3B0AC300821522 /* tsu-logoResize.png in Resources */ = {isa = PBXBuildFile; fileRef = 23335BB21C3B0AC300821522 /* tsu-logoResize.png */; };
-		23335BB51C3B0AD100821522 /* wowCafe.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 23335BB41C3B0AD100821522 /* wowCafe.jpg */; };
-		23335BB71C3B0AE300821522 /* wowCafe1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 23335BB61C3B0AE300821522 /* wowCafe1.jpg */; };
-		23335BB91C3B0AF500821522 /* rsz_wowcafe1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 23335BB81C3B0AF500821522 /* rsz_wowcafe1.jpg */; };
-		23335BBB1C3B0B0500821522 /* Pizza-25.png in Resources */ = {isa = PBXBuildFile; fileRef = 23335BBA1C3B0B0500821522 /* Pizza-25.png */; };
-		23335BBD1C3B0B1300821522 /* Clock-25.png in Resources */ = {isa = PBXBuildFile; fileRef = 23335BBC1C3B0B1300821522 /* Clock-25.png */; };
-		23335BBF1C3B0B2700821522 /* Card in Use-25.png in Resources */ = {isa = PBXBuildFile; fileRef = 23335BBE1C3B0B2700821522 /* Card in Use-25.png */; };
-		23335BC11C3B0B3A00821522 /* Cash_stack.png in Resources */ = {isa = PBXBuildFile; fileRef = 23335BC01C3B0B3A00821522 /* Cash_stack.png */; };
-		23335BC31C3B0B5A00821522 /* Mailbox Opened Flag Up-25.png in Resources */ = {isa = PBXBuildFile; fileRef = 23335BC21C3B0B5A00821522 /* Mailbox Opened Flag Up-25.png */; };
-		23335BC51C3B0B8200821522 /* sodexo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 23335BC41C3B0B8200821522 /* sodexo.jpg */; };
-		23335BC71C3B0B9400821522 /* fruit.png in Resources */ = {isa = PBXBuildFile; fileRef = 23335BC61C3B0B9400821522 /* fruit.png */; };
-		23335BC91C3B0BA500821522 /* einsteinbagel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 23335BC81C3B0BA500821522 /* einsteinbagel.jpg */; };
-		23335BCB1C3B0BB700821522 /* tsustate.png in Resources */ = {isa = PBXBuildFile; fileRef = 23335BCA1C3B0BB700821522 /* tsustate.png */; };
-		23335BCD1C3B0BC300821522 /* cfa-new.png in Resources */ = {isa = PBXBuildFile; fileRef = 23335BCC1C3B0BC300821522 /* cfa-new.png */; };
-		23335BCF1C3B0BD000821522 /* Jazzmans.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 23335BCE1C3B0BD000821522 /* Jazzmans.jpg */; };
-		23335BD11C3B0BDE00821522 /* Hamburger-24.png in Resources */ = {isa = PBXBuildFile; fileRef = 23335BD01C3B0BDE00821522 /* Hamburger-24.png */; };
-		234E5C0B1C44EF7C00BC12F4 /* tigerIcon copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 234E5C0A1C44EF7C00BC12F4 /* tigerIcon copy.png */; };
 		2367A4241C05F6270028D470 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2367A4231C05F6270028D470 /* AppDelegate.swift */; };
 		2367A4261C05F6270028D470 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2367A4251C05F6270028D470 /* Home.swift */; };
 		2367A4281C05F6270028D470 /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2367A4271C05F6270028D470 /* Menu.swift */; };
@@ -59,22 +30,6 @@
 		2382F1481C169412004B0D5F /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2382F1471C169412004B0D5F /* SystemConfiguration.framework */; };
 		2382F14A1C16941A004B0D5F /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 2382F1491C16941A004B0D5F /* libz.tbd */; };
 		2382F14C1C16941F004B0D5F /* libsqlite3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 2382F14B1C16941F004B0D5F /* libsqlite3.tbd */; };
-		2382F14E1C1731D6004B0D5F /* tigerIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 2382F14D1C1731D6004B0D5F /* tigerIcon.png */; };
-		2382F1501C173394004B0D5F /* blk.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2382F14F1C173394004B0D5F /* blk.jpg */; };
-		2382F1551C18F4C6004B0D5F /* wow.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2382F1511C18F4C6004B0D5F /* wow.JPG */; };
-		2382F1581C18F4C6004B0D5F /* jazz.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2382F1541C18F4C6004B0D5F /* jazz.JPG */; };
-		2382F1601C19045B004B0D5F /* Untitled.png in Resources */ = {isa = PBXBuildFile; fileRef = 2382F15F1C19045B004B0D5F /* Untitled.png */; };
-		2382F1651C19CDDE004B0D5F /* IMG_2848.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2382F1641C19CDDE004B0D5F /* IMG_2848.JPG */; };
-		2382F1671C19CF5E004B0D5F /* caf.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2382F1661C19CF5E004B0D5F /* caf.jpg */; };
-		2382F1701C19F54B004B0D5F /* jazz2.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2382F1681C19F54B004B0D5F /* jazz2.JPG */; };
-		2382F1711C19F54B004B0D5F /* jazz3.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2382F1691C19F54B004B0D5F /* jazz3.JPG */; };
-		2382F1721C19F54B004B0D5F /* wow2.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2382F16A1C19F54B004B0D5F /* wow2.JPG */; };
-		2382F1731C19F54B004B0D5F /* caf2.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2382F16B1C19F54B004B0D5F /* caf2.JPG */; };
-		2382F1741C19F54B004B0D5F /* caf3.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2382F16C1C19F54B004B0D5F /* caf3.JPG */; };
-		2382F1751C19F54B004B0D5F /* chick2.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2382F16D1C19F54B004B0D5F /* chick2.JPG */; };
-		2382F1761C19F54B004B0D5F /* bagel.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2382F16E1C19F54B004B0D5F /* bagel.JPG */; };
-		2382F1771C19F54B004B0D5F /* bagel2.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2382F16F1C19F54B004B0D5F /* bagel2.JPG */; };
-		2382F1791C19F94A004B0D5F /* bbnm logo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2382F1781C19F94A004B0D5F /* bbnm logo.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -95,35 +50,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		23335B9A1C3B07C200821522 /* Home-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Home-25.png"; sourceTree = "<group>"; };
-		23335B9C1C3B086900821522 /* 28-day-Dry-Aged-Sirloin1-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "28-day-Dry-Aged-Sirloin1-1.jpg"; path = "Assets.xcassets/Slide 4.imageset/28-day-Dry-Aged-Sirloin1-1.jpg"; sourceTree = "<group>"; };
-		23335B9E1C3B089900821522 /* 01_Cafeteria-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "01_Cafeteria-1.jpg"; path = "Assets.xcassets/Slide 3.imageset/01_Cafeteria-1.jpg"; sourceTree = "<group>"; };
-		23335BA01C3B09F400821522 /* fruitsandvegetables.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fruitsandvegetables.jpg; sourceTree = "<group>"; };
-		23335BA21C3B0A0A00821522 /* jazzCafe.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jazzCafe.jpg; sourceTree = "<group>"; };
-		23335BA41C3B0A1B00821522 /* jazzCafeResize.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jazzCafeResize.jpg; sourceTree = "<group>"; };
-		23335BA61C3B0A3E00821522 /* einsteinBros.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = einsteinBros.jpg; sourceTree = "<group>"; };
-		23335BA71C3B0A3E00821522 /* einsteinBros2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = einsteinBros2.jpg; sourceTree = "<group>"; };
-		23335BAA1C3B0A6200821522 /* chickfila.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chickfila.png; sourceTree = "<group>"; };
-		23335BAC1C3B0A7700821522 /* chickfila2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chickfila2.png; sourceTree = "<group>"; };
-		23335BAE1C3B0AA000821522 /* sodexo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = sodexo.jpg; path = "Assets.xcassets/Slide 2.imageset/sodexo.jpg"; sourceTree = "<group>"; };
-		23335BB01C3B0AB800821522 /* tsu-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tsu-logo.png"; sourceTree = "<group>"; };
-		23335BB21C3B0AC300821522 /* tsu-logoResize.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tsu-logoResize.png"; sourceTree = "<group>"; };
-		23335BB41C3B0AD100821522 /* wowCafe.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wowCafe.jpg; sourceTree = "<group>"; };
-		23335BB61C3B0AE300821522 /* wowCafe1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wowCafe1.jpg; sourceTree = "<group>"; };
-		23335BB81C3B0AF500821522 /* rsz_wowcafe1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rsz_wowcafe1.jpg; sourceTree = "<group>"; };
-		23335BBA1C3B0B0500821522 /* Pizza-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Pizza-25.png"; sourceTree = "<group>"; };
-		23335BBC1C3B0B1300821522 /* Clock-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Clock-25.png"; sourceTree = "<group>"; };
-		23335BBE1C3B0B2700821522 /* Card in Use-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Card in Use-25.png"; sourceTree = "<group>"; };
-		23335BC01C3B0B3A00821522 /* Cash_stack.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Cash_stack.png; sourceTree = "<group>"; };
-		23335BC21C3B0B5A00821522 /* Mailbox Opened Flag Up-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Mailbox Opened Flag Up-25.png"; sourceTree = "<group>"; };
-		23335BC41C3B0B8200821522 /* sodexo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sodexo.jpg; sourceTree = "<group>"; };
-		23335BC61C3B0B9400821522 /* fruit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fruit.png; sourceTree = "<group>"; };
-		23335BC81C3B0BA500821522 /* einsteinbagel.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = einsteinbagel.jpg; sourceTree = "<group>"; };
-		23335BCA1C3B0BB700821522 /* tsustate.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tsustate.png; sourceTree = "<group>"; };
-		23335BCC1C3B0BC300821522 /* cfa-new.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cfa-new.png"; sourceTree = "<group>"; };
-		23335BCE1C3B0BD000821522 /* Jazzmans.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Jazzmans.jpg; sourceTree = "<group>"; };
-		23335BD01C3B0BDE00821522 /* Hamburger-24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Hamburger-24.png"; sourceTree = "<group>"; };
-		234E5C0A1C44EF7C00BC12F4 /* tigerIcon copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tigerIcon copy.png"; sourceTree = "<group>"; };
 		2367A4201C05F6270028D470 /* TSU Dining.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "TSU Dining.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2367A4231C05F6270028D470 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2367A4251C05F6270028D470 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
@@ -153,22 +79,6 @@
 		2382F1471C169412004B0D5F /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 		2382F1491C16941A004B0D5F /* libz.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
 		2382F14B1C16941F004B0D5F /* libsqlite3.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.tbd; path = usr/lib/libsqlite3.tbd; sourceTree = SDKROOT; };
-		2382F14D1C1731D6004B0D5F /* tigerIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tigerIcon.png; sourceTree = "<group>"; };
-		2382F14F1C173394004B0D5F /* blk.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = blk.jpg; sourceTree = "<group>"; };
-		2382F1511C18F4C6004B0D5F /* wow.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wow.JPG; sourceTree = "<group>"; };
-		2382F1541C18F4C6004B0D5F /* jazz.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jazz.JPG; sourceTree = "<group>"; };
-		2382F15F1C19045B004B0D5F /* Untitled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Untitled.png; sourceTree = "<group>"; };
-		2382F1641C19CDDE004B0D5F /* IMG_2848.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_2848.JPG; sourceTree = "<group>"; };
-		2382F1661C19CF5E004B0D5F /* caf.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = caf.jpg; sourceTree = "<group>"; };
-		2382F1681C19F54B004B0D5F /* jazz2.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jazz2.JPG; sourceTree = "<group>"; };
-		2382F1691C19F54B004B0D5F /* jazz3.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jazz3.JPG; sourceTree = "<group>"; };
-		2382F16A1C19F54B004B0D5F /* wow2.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wow2.JPG; sourceTree = "<group>"; };
-		2382F16B1C19F54B004B0D5F /* caf2.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = caf2.JPG; sourceTree = "<group>"; };
-		2382F16C1C19F54B004B0D5F /* caf3.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = caf3.JPG; sourceTree = "<group>"; };
-		2382F16D1C19F54B004B0D5F /* chick2.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chick2.JPG; sourceTree = "<group>"; };
-		2382F16E1C19F54B004B0D5F /* bagel.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bagel.JPG; sourceTree = "<group>"; };
-		2382F16F1C19F54B004B0D5F /* bagel2.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bagel2.JPG; sourceTree = "<group>"; };
-		2382F1781C19F94A004B0D5F /* bbnm logo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "bbnm logo.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -239,53 +149,8 @@
 				2367A4551C05FA050028D470 /* TigerPointBalance.swift */,
 				2367A4571C05FA3F0028D470 /* Suggestions.swift */,
 				2367A4291C05F6270028D470 /* Main.storyboard */,
-				23335B9A1C3B07C200821522 /* Home-25.png */,
-				23335B9C1C3B086900821522 /* 28-day-Dry-Aged-Sirloin1-1.jpg */,
-				23335B9E1C3B089900821522 /* 01_Cafeteria-1.jpg */,
-				2382F1661C19CF5E004B0D5F /* caf.jpg */,
-				2382F1641C19CDDE004B0D5F /* IMG_2848.JPG */,
-				23335BA01C3B09F400821522 /* fruitsandvegetables.jpg */,
-				2382F1781C19F94A004B0D5F /* bbnm logo.jpg */,
-				23335BA21C3B0A0A00821522 /* jazzCafe.jpg */,
-				2382F15F1C19045B004B0D5F /* Untitled.png */,
-				23335BA41C3B0A1B00821522 /* jazzCafeResize.jpg */,
-				23335BA61C3B0A3E00821522 /* einsteinBros.jpg */,
-				23335BA71C3B0A3E00821522 /* einsteinBros2.jpg */,
-				2382F1511C18F4C6004B0D5F /* wow.JPG */,
-				2382F1541C18F4C6004B0D5F /* jazz.JPG */,
-				23335BAA1C3B0A6200821522 /* chickfila.png */,
-				23335BAC1C3B0A7700821522 /* chickfila2.png */,
-				23335BAE1C3B0AA000821522 /* sodexo.jpg */,
-				23335BB01C3B0AB800821522 /* tsu-logo.png */,
-				23335BB21C3B0AC300821522 /* tsu-logoResize.png */,
-				23335BB41C3B0AD100821522 /* wowCafe.jpg */,
-				2382F1681C19F54B004B0D5F /* jazz2.JPG */,
-				2382F1691C19F54B004B0D5F /* jazz3.JPG */,
-				2382F16A1C19F54B004B0D5F /* wow2.JPG */,
-				2382F16B1C19F54B004B0D5F /* caf2.JPG */,
-				2382F16C1C19F54B004B0D5F /* caf3.JPG */,
-				2382F16D1C19F54B004B0D5F /* chick2.JPG */,
-				2382F16E1C19F54B004B0D5F /* bagel.JPG */,
-				2382F16F1C19F54B004B0D5F /* bagel2.JPG */,
-				23335BB61C3B0AE300821522 /* wowCafe1.jpg */,
-				23335BB81C3B0AF500821522 /* rsz_wowcafe1.jpg */,
-				23335BBA1C3B0B0500821522 /* Pizza-25.png */,
-				23335BBC1C3B0B1300821522 /* Clock-25.png */,
-				23335BBE1C3B0B2700821522 /* Card in Use-25.png */,
-				23335BC01C3B0B3A00821522 /* Cash_stack.png */,
-				23335BC21C3B0B5A00821522 /* Mailbox Opened Flag Up-25.png */,
-				23335BC41C3B0B8200821522 /* sodexo.jpg */,
-				23335BC61C3B0B9400821522 /* fruit.png */,
-				23335BC81C3B0BA500821522 /* einsteinbagel.jpg */,
-				23335BCA1C3B0BB700821522 /* tsustate.png */,
-				23335BCC1C3B0BC300821522 /* cfa-new.png */,
-				23335BCE1C3B0BD000821522 /* Jazzmans.jpg */,
-				23335BD01C3B0BDE00821522 /* Hamburger-24.png */,
-				2382F14D1C1731D6004B0D5F /* tigerIcon.png */,
-				234E5C0A1C44EF7C00BC12F4 /* tigerIcon copy.png */,
-				2382F14F1C173394004B0D5F /* blk.jpg */,
-				2367A42C1C05F6270028D470 /* Assets.xcassets */,
 				2367A42E1C05F6270028D470 /* LaunchScreen.storyboard */,
+				2367A42C1C05F6270028D470 /* Assets.xcassets */,
 				2367A4311C05F6270028D470 /* Info.plist */,
 			);
 			name = "TSU Dining";
@@ -400,7 +265,12 @@
 				TargetAttributes = {
 					2367A41F1C05F6270028D470 = {
 						CreatedOnToolsVersion = 7.1;
-						DevelopmentTeam = P7P7VCR299;
+						DevelopmentTeam = V337VW85EM;
+						SystemCapabilities = {
+							com.apple.iCloud = {
+								enabled = 0;
+							};
+						};
 					};
 					2367A4351C05F6270028D470 = {
 						CreatedOnToolsVersion = 7.1;
@@ -439,54 +309,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				23335BAD1C3B0A7700821522 /* chickfila2.png in Resources */,
-				23335B9F1C3B089900821522 /* 01_Cafeteria-1.jpg in Resources */,
-				23335BA81C3B0A3E00821522 /* einsteinBros.jpg in Resources */,
-				23335BD11C3B0BDE00821522 /* Hamburger-24.png in Resources */,
-				2382F1731C19F54B004B0D5F /* caf2.JPG in Resources */,
-				23335BBF1C3B0B2700821522 /* Card in Use-25.png in Resources */,
-				23335B9D1C3B086900821522 /* 28-day-Dry-Aged-Sirloin1-1.jpg in Resources */,
-				23335BA91C3B0A3E00821522 /* einsteinBros2.jpg in Resources */,
-				2382F14E1C1731D6004B0D5F /* tigerIcon.png in Resources */,
-				23335BCF1C3B0BD000821522 /* Jazzmans.jpg in Resources */,
-				2382F1791C19F94A004B0D5F /* bbnm logo.jpg in Resources */,
-				2382F1651C19CDDE004B0D5F /* IMG_2848.JPG in Resources */,
-				2382F1751C19F54B004B0D5F /* chick2.JPG in Resources */,
-				23335BBB1C3B0B0500821522 /* Pizza-25.png in Resources */,
-				23335BB31C3B0AC300821522 /* tsu-logoResize.png in Resources */,
-				23335BCD1C3B0BC300821522 /* cfa-new.png in Resources */,
-				2382F1771C19F54B004B0D5F /* bagel2.JPG in Resources */,
-				23335BA51C3B0A1B00821522 /* jazzCafeResize.jpg in Resources */,
-				2382F1741C19F54B004B0D5F /* caf3.JPG in Resources */,
-				23335BC11C3B0B3A00821522 /* Cash_stack.png in Resources */,
-				234E5C0B1C44EF7C00BC12F4 /* tigerIcon copy.png in Resources */,
 				2367A4301C05F6270028D470 /* LaunchScreen.storyboard in Resources */,
-				23335BB51C3B0AD100821522 /* wowCafe.jpg in Resources */,
-				2382F1501C173394004B0D5F /* blk.jpg in Resources */,
-				23335BB71C3B0AE300821522 /* wowCafe1.jpg in Resources */,
-				23335BA11C3B09F400821522 /* fruitsandvegetables.jpg in Resources */,
-				2382F1601C19045B004B0D5F /* Untitled.png in Resources */,
-				23335BC51C3B0B8200821522 /* sodexo.jpg in Resources */,
-				23335BC91C3B0BA500821522 /* einsteinbagel.jpg in Resources */,
-				23335BAF1C3B0AA000821522 /* sodexo.jpg in Resources */,
-				23335BCB1C3B0BB700821522 /* tsustate.png in Resources */,
 				2367A42D1C05F6270028D470 /* Assets.xcassets in Resources */,
-				23335B9B1C3B07C200821522 /* Home-25.png in Resources */,
-				23335BAB1C3B0A6200821522 /* chickfila.png in Resources */,
 				2367A42B1C05F6270028D470 /* Main.storyboard in Resources */,
-				2382F1671C19CF5E004B0D5F /* caf.jpg in Resources */,
-				2382F1701C19F54B004B0D5F /* jazz2.JPG in Resources */,
-				2382F1721C19F54B004B0D5F /* wow2.JPG in Resources */,
-				2382F1761C19F54B004B0D5F /* bagel.JPG in Resources */,
-				23335BC71C3B0B9400821522 /* fruit.png in Resources */,
-				23335BB11C3B0AB800821522 /* tsu-logo.png in Resources */,
-				23335BA31C3B0A0A00821522 /* jazzCafe.jpg in Resources */,
-				23335BB91C3B0AF500821522 /* rsz_wowcafe1.jpg in Resources */,
-				23335BC31C3B0B5A00821522 /* Mailbox Opened Flag Up-25.png in Resources */,
-				2382F1711C19F54B004B0D5F /* jazz3.JPG in Resources */,
-				2382F1551C18F4C6004B0D5F /* wow.JPG in Resources */,
-				2382F1581C18F4C6004B0D5F /* jazz.JPG in Resources */,
-				23335BBD1C3B0B1300821522 /* Clock-25.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -588,6 +413,7 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
@@ -610,6 +436,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "47c8a30e-a4f7-49db-8248-5693bc7a0190";
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
@@ -632,7 +459,8 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
@@ -647,6 +475,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				MTL_ENABLE_DEBUG_INFO = NO;
+				PROVISIONING_PROFILE = "47c8a30e-a4f7-49db-8248-5693bc7a0190";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -656,6 +485,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/TSU",
@@ -667,8 +498,9 @@
 				INFOPLIST_FILE = "TSU Kitchen/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.north.TSU-Dining";
+				PRODUCT_BUNDLE_IDENTIFIER = com.tsu.dining;
 				PRODUCT_NAME = "TSU Dining";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -676,6 +508,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/TSU",
@@ -687,8 +521,9 @@
 				INFOPLIST_FILE = "TSU Kitchen/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.north.TSU-Dining";
+				PRODUCT_BUNDLE_IDENTIFIER = com.tsu.dining;
 				PRODUCT_NAME = "TSU Dining";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
