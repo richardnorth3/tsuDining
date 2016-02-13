@@ -40,7 +40,7 @@ class ViewController: UIViewController, UIScrollViewDelegate {
         
         
         // IMAGE SLIDER
-        //1 COME BACK AND CHANGE SHIT TO FIT ALL PHONES
+        //1 COME BACK AND CHANGE TO FIT ALL PHONES
         self.scrollView.frame = CGRectMake(self.view.frame.width, self.view.frame.height, self.view.frame.width, self.view.frame.height)
         let scrollViewWidth:CGFloat = self.scrollView.frame.width
         
@@ -48,7 +48,7 @@ class ViewController: UIViewController, UIScrollViewDelegate {
         
         //2 skipped because no text was added for this practice
         
-        //3 COME BACK AND CHANGE SHIT TO FIT ALL PHONES
+        //3 COME BACK AND CHANGE TO FIT ALL PHONES
         let imgOne = UIImageView(frame: CGRectMake(0, 0, scrollViewWidth, 184))
         imgOne.image = UIImage(named: "Slide 1")
         let imgTwo = UIImageView(frame: CGRectMake(scrollViewWidth, 0, scrollViewWidth, 184))
